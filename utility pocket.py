@@ -78,7 +78,7 @@ def calculator():
         print('''    ERROR......Sorry it can't be processed 😕''')
         
         
-#random password generator
+#random password generator,
 def rpg():
 
     inp=[x for x in input("Enter the words space seperatedly for the password : ").split()]
